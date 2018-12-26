@@ -1,0 +1,21 @@
+{
+  "name": "blogjs_web",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Giomerito Alves de Souza <giomerito.dev@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.7.5"
+  }
+}
