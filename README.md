@@ -26,7 +26,7 @@ Depois colocar o comando
 com o comando "./node_modules/bower/bin/bower init"
 
 para ficar desta maneira abaixo
-
+<p>
 {
   "name": "blogjs_web",
   "description": "",
@@ -49,6 +49,7 @@ para ficar desta maneira abaixo
     "angular": "angularjs#^1.7.5"
   }
 }
+</p>
 
 ## Instalando o angular-bootstrap
 
