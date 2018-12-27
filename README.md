@@ -49,3 +49,11 @@ para ficar desta maneira abaixo
     "angular": "angularjs#^1.7.5"
   }
 }
+
+## Instalando o angular-bootstrap
+
+./node_modules/bower/bin/bower install angular-bootstrap --save
+
+## Instalando bootstrap
+
+./node_modules/bower/bin/bower install bootstrap --save
