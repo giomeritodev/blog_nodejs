@@ -8,7 +8,7 @@ Com o comando './node_modules/bower/bin/bower install angularjs --save'
 
 Depois remove o bower_components com o comando 'rm -R bower_components/'
 
-##Criando file de configuração dos documentos staticos
+## Criando file de configuração dos documentos staticos
 
 criando o arquivo .bowerrc com o comando "vim.tiny .bowerrc"
 com os dados:
