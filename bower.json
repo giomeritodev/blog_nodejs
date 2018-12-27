@@ -6,12 +6,13 @@
     "Giomerito Alves de Souza <giomerito.dev@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/giomeritodev/blog_nodejs",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "static/libs",
     "test",
     "tests"
   ],
